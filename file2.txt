@@ -6,6 +6,10 @@ She has a red ball.
 
 We are friends.
 
+The cat is sleeping.
+
+They play in the park.
+
 // commented line - 1
 // commented line - 2
 // commented line - 3
