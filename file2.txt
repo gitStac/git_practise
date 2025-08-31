@@ -6,7 +6,6 @@ She has a red ball.
 
 We are friends.
 
-He runs very fast.
-
 // commented line - 1
 // commented line - 2
+// commented line - 3
