@@ -9,7 +9,6 @@ We are friends.
 The cat is sleeping.
 
 They play in the park.
-He runs very fast.
 
 // commented line - 1
 // commented line - 2
